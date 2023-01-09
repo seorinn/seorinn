@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SeorinKim&fontSize=80)
-
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=ffffff&fontAlign-20&fontAlignY=40&height=200&section=header&text=Hello,%20I'm%20SeorinKim&fontSize=32)
 
 <!--
+### Hi there 👋
 **seorinn/seorinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
